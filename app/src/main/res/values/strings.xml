@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نمایش تبلیغ تپسل</string>
+    <string name="refresh_ad">تبلیغ جدید</string>
+    <string name="loading">در حال دریافت تبلیغ...</string>
+    <string name="ad_shown">تبلیغ نمایش داده شد</string>
+    <string name="ad_failed">دریافت تبلیغ ناموفق بود، دوباره امتحان کنید</string>
+    <string name="sponsored">تبلیغ</string>
+</resources>
